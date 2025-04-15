@@ -1,5 +1,23 @@
 # Controle de Ponto - Exercícios de Herança e Polimorfismo
 
+## 💼 Informações sobre o Projeto
+
+**Faculdade de Tecnologia de Mogi Mirim**
+
+**Curso:** Análise e Desenvolvimento de Sistemas (Noturno)
+
+**Aula:**
+
+* 🖥️ Programação Orientada a Objetos
+  
+**Professor Orientador:**
+
+* 👨🏻‍🏫 Marcos Roberto de Moraes - [@maromo71](https://github.com/maromo71)
+
+**Autor:**
+
+- **Ian Camargo** - [@IanCamargo](https://github.com/IanCamargo)
+
 ## Objetivo
 Este projeto tem como objetivo aplicar os conceitos de **Herança**, **Polimorfismo**, **Composição**, manipulação de data/hora com **LocalDate** e **LocalDateTime**, além de demonstrar encapsulamento, boas práticas de código, e a separação em pacotes e modularidade.
 
