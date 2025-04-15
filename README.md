@@ -63,36 +63,5 @@ javac br/com/controle/modelo/*.java GerenciarControlePonto.java
 java GerenciarControlePonto
 ```
 
-## Exemplo de Saída
-Ao executar o projeto, o console exibirá registros similares ao exemplo abaixo:
-
-==================================
-Funcionário: João Silva
-Data de Registro: 15/04/2025
-Hora de Entrada: 17:08:57
-==================================
-Funcionário: Pedro Santos
-Data de Registro: 15/04/2025
-Hora de Entrada: 17:08:58
-==================================
-Funcionário: Maria Oliveira
-Data de Registro: 15/04/2025
-Hora de Entrada: 17:08:59
-==================================
-Funcionário: João Silva
-Data de Registro: 15/04/2025
-Hora de Entrada: 17:08:57
-Hora de Saída: 17:09:00
-==================================
-Funcionário: Pedro Santos
-Data de Registro: 15/04/2025
-Hora de Entrada: 17:08:58
-Hora de Saída: 17:09:01
-==================================
-Funcionário: Maria Oliveira
-Data de Registro: 15/04/2025
-Hora de Entrada: 17:08:59
-Hora de Saída: 17:09:02
-
 ## Considerações Finais
 Este projeto demonstra na prática o uso dos conceitos de orientação a objetos em Java, permitindo registrar e gerenciar os pontos dos funcionários de maneira modular e orientada ao reuso de código. Sinta-se à vontade para explorar e modificar as classes conforme a necessidade do seu aprendizado!
